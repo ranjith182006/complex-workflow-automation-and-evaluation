@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+langchain
+langchain-community
+pydantic
